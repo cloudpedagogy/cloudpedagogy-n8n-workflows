@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment & secrets
+.env
+.env.*
+*.env
+secrets.*
+*.key
+*.pem
+
+# Local config / runtime
+**/local/**
+**/tmp/**
+**/.cache/**
+
+# Node / n8n related (future-proofing)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
