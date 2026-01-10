@@ -72,3 +72,13 @@ General setup and credential guidance is available in:
 ## Licence
 
 See the `LICENSE` file for details.
+
+---
+
+## About CloudPedagogy
+
+CloudPedagogy develops open, governance-credible resources for building confident, responsible AI capability across education, research, and public service.
+
+- Website: https://www.cloudpedagogy.com/
+- Framework: https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework
+
